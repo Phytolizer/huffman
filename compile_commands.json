@@ -1,0 +1,34 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-std=c11",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "source/compress.o",
+      "source/compress.c"
+    ],
+    "directory": "/home/phyto/Documents/tutoring/dan/huffman",
+    "file": "/home/phyto/Documents/tutoring/dan/huffman/source/compress.c",
+    "output": "/home/phyto/Documents/tutoring/dan/huffman/source/compress.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-std=c11",
+      "-Wpedantic",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "source/state.o",
+      "source/state.c"
+    ],
+    "directory": "/home/phyto/Documents/tutoring/dan/huffman",
+    "file": "/home/phyto/Documents/tutoring/dan/huffman/source/state.c",
+    "output": "/home/phyto/Documents/tutoring/dan/huffman/source/state.o"
+  }
+]
